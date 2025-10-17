@@ -1,0 +1,14 @@
+[
+  {
+    "order_id": 5001,
+    "status": "shipped",
+    "total_amount": 3697,
+    "created_at": "2025-10-17"
+  },
+  {
+    "order_id": 5002,
+    "status": "pending",
+    "total_amount": 1200,
+    "created_at": "2025-10-18"
+  }
+]

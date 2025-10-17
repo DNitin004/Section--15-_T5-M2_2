@@ -1,0 +1,8 @@
+{
+  "customer_id": 101,
+  "items": [
+    { "product_id": 1, "quantity": 1 },
+    { "product_id": 2, "quantity": 2 }
+  ],
+  "shipping_address": "123 MG Road, Hyderabad, India"
+}

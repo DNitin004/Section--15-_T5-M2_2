@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 2499,
+    "stock": 10,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt",
+    "price": 599,
+    "stock": 30,
+    "category": "Clothing"
+  }
+]

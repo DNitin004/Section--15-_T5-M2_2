@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "Wireless Headphones",
+  "description": "Noise-cancelling over-ear headphones.",
+  "price": 2499,
+  "stock": 10,
+  "category": "Electronics"
+}
